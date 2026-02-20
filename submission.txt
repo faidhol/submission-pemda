@@ -1,0 +1,6 @@
+Nama: (Nama Anda)
+ETL Advanced Submission
+- Modular ETL
+- 3 Repository (CSV, GSheets, PostgreSQL)
+- Timestamp Added
+- Unit Test Coverage >= 80%

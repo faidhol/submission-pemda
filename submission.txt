@@ -1,6 +1,12 @@
 Nama: (Nama Anda)
 ETL Advanced Submission
-- Modular ETL
-- 3 Repository (CSV, GSheets, PostgreSQL)
+- Modular ETL (extract.py, transform.py, load.py)
+- 3 Repository (CSV, Google Sheets, PostgreSQL)
 - Timestamp Added
 - Unit Test Coverage >= 80%
+
+Cara menjalankan pengujian (mengatasi error: "pytest: command not found"):
+1. Install dependency
+   python -m pip install -r requirements.txt
+2. Jalankan test via modul Python (tanpa bergantung executable `pytest`)
+   python -m pytest tests --cov=utils -q

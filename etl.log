@@ -1,5 +1,60 @@
-2026-02-20 15:14:03,220 - INFO - Extracted 0 records
-2026-02-20 15:14:03,228 - ERROR - Transform error: Schema mismatch
-2026-02-20 15:44:20,086 - INFO - Extracted 0 records
-2026-02-20 20:02:44,168 - INFO - Extracted 0 records
-2026-02-20 21:31:49,944 - INFO - Extracted 0 records
+2026-02-22 11:30:07,915 - INFO - ===== ETL PIPELINE STARTED =====
+2026-02-22 11:30:08,380 - INFO - Page 1 - Found 20 products
+2026-02-22 11:30:08,748 - INFO - Page 2 - Found 20 products
+2026-02-22 11:30:09,074 - INFO - Page 3 - Found 20 products
+2026-02-22 11:30:09,402 - INFO - Page 4 - Found 20 products
+2026-02-22 11:30:09,758 - INFO - Page 5 - Found 20 products
+2026-02-22 11:30:10,097 - INFO - Page 6 - Found 20 products
+2026-02-22 11:30:10,437 - INFO - Page 7 - Found 20 products
+2026-02-22 11:30:10,762 - INFO - Page 8 - Found 20 products
+2026-02-22 11:30:11,114 - INFO - Page 9 - Found 20 products
+2026-02-22 11:30:11,468 - INFO - Page 10 - Found 20 products
+2026-02-22 11:30:11,824 - INFO - Page 11 - Found 20 products
+2026-02-22 11:30:12,164 - INFO - Page 12 - Found 20 products
+2026-02-22 11:30:12,505 - INFO - Page 13 - Found 20 products
+2026-02-22 11:30:12,844 - INFO - Page 14 - Found 20 products
+2026-02-22 11:30:13,178 - INFO - Page 15 - Found 20 products
+2026-02-22 11:30:13,500 - INFO - Page 16 - Found 20 products
+2026-02-22 11:30:13,834 - INFO - Page 17 - Found 20 products
+2026-02-22 11:30:14,189 - INFO - Page 18 - Found 20 products
+2026-02-22 11:30:14,543 - INFO - Page 19 - Found 20 products
+2026-02-22 11:30:14,876 - INFO - Page 20 - Found 20 products
+2026-02-22 11:30:15,234 - INFO - Page 21 - Found 20 products
+2026-02-22 11:30:15,586 - INFO - Page 22 - Found 20 products
+2026-02-22 11:30:15,933 - INFO - Page 23 - Found 20 products
+2026-02-22 11:30:16,281 - INFO - Page 24 - Found 20 products
+2026-02-22 11:30:16,633 - INFO - Page 25 - Found 20 products
+2026-02-22 11:30:16,970 - INFO - Page 26 - Found 20 products
+2026-02-22 11:30:17,298 - INFO - Page 27 - Found 20 products
+2026-02-22 11:30:17,640 - INFO - Page 28 - Found 20 products
+2026-02-22 11:30:17,988 - INFO - Page 29 - Found 20 products
+2026-02-22 11:30:18,320 - INFO - Page 30 - Found 20 products
+2026-02-22 11:30:18,693 - INFO - Page 31 - Found 20 products
+2026-02-22 11:30:19,030 - INFO - Page 32 - Found 20 products
+2026-02-22 11:30:19,376 - INFO - Page 33 - Found 20 products
+2026-02-22 11:30:19,707 - INFO - Page 34 - Found 20 products
+2026-02-22 11:30:20,056 - INFO - Page 35 - Found 20 products
+2026-02-22 11:30:20,409 - INFO - Page 36 - Found 20 products
+2026-02-22 11:30:20,756 - INFO - Page 37 - Found 20 products
+2026-02-22 11:30:21,105 - INFO - Page 38 - Found 20 products
+2026-02-22 11:30:21,439 - INFO - Page 39 - Found 20 products
+2026-02-22 11:30:21,770 - INFO - Page 40 - Found 20 products
+2026-02-22 11:30:22,112 - INFO - Page 41 - Found 20 products
+2026-02-22 11:30:22,469 - INFO - Page 42 - Found 20 products
+2026-02-22 11:30:22,808 - INFO - Page 43 - Found 20 products
+2026-02-22 11:30:23,150 - INFO - Page 44 - Found 20 products
+2026-02-22 11:30:23,477 - INFO - Page 45 - Found 20 products
+2026-02-22 11:30:23,805 - INFO - Page 46 - Found 20 products
+2026-02-22 11:30:24,152 - INFO - Page 47 - Found 20 products
+2026-02-22 11:30:24,501 - INFO - Page 48 - Found 20 products
+2026-02-22 11:30:24,862 - INFO - Page 49 - Found 20 products
+2026-02-22 11:30:25,193 - INFO - Page 50 - Found 20 products
+2026-02-22 11:30:25,196 - INFO - Extracted 967 records
+2026-02-22 11:30:25,196 - INFO - Extracted 967 raw records
+2026-02-22 11:30:25,203 - INFO - Initial records: 967
+2026-02-22 11:30:25,228 - INFO - Records after cleaning: 867
+2026-02-22 11:30:25,230 - INFO - Transformed into 867 clean records
+2026-02-22 11:30:25,236 - INFO - Saved 867 records to CSV
+2026-02-22 11:30:25,237 - ERROR - GSheet failed: Expecting value: line 1 column 1 (char 0)
+2026-02-22 11:30:25,237 - ERROR - Postgres failed: DATABASE_URL not set
+2026-02-22 11:30:25,237 - INFO - ===== ETL PIPELINE COMPLETED SUCCESSFULLY =====

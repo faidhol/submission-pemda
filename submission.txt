@@ -4,9 +4,11 @@ ETL Advanced Submission
 - 3 Repository (CSV, Google Sheets, PostgreSQL)
 - Timestamp Added
 - Unit Test Coverage >= 80%
+- Lampiran products.csv (hasil output tahapan load ke CSV)
 
-Cara menjalankan pengujian (mengatasi error: "pytest: command not found"):
-1. Install dependency
-   python -m pip install -r requirements.txt
-2. Jalankan test via modul Python (tanpa bergantung executable `pytest`)
-   python -m pytest tests --cov=utils -q
+Cara menjalankan ETL:
+1. python -m pip install -r requirements.txt
+2. python main.py
+
+Cara menjalankan pengujian:
+1. python -m pytest tests --cov=utils -q

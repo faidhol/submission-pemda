@@ -1,5 +1,6 @@
 from utils.transform import transform_data
 
+
 def test_transform_valid_data_and_types():
     sample = [
         {
